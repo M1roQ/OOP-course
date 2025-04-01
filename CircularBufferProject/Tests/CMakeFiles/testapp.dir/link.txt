@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/testapp.dir/CBTests.cpp.o -o testapp  -lgtest -lpthread ../libCircularBuffer.a 
